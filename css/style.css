@@ -1,0 +1,41 @@
+*{font-family: 'Noto Sans';}
+		html{font-family: 'Noto Sans', sans-serif;
+font-family: 'Noto Sans KR', sans-serif; box-sizing: border-box;scroll-behavior: smooth;}
+
+		body,h1,h2,p,div{margin: 0; padding: 0;}
+header{width: auto; height: 1200px;
+	background :url(../img/mainbg.png) no-repeat center center ; background-size: 100%;}
+
+	.year{font-size: 76px ; font-weight: 900 ;margin-left: 60px; margin-bottom: 50px;margin-top: 300px; font-family: 'Noto Sans';}
+	.true{font-weight: 700;text-align: center; font-size: 76px; font-family: 'Noto Sans';word-spacing: -1px;letter-spacing: -2px}
+	.thin{font-weight: 300;font-size: 24px;text-align: center;margin-bottom: 150px; font-family: 'Noto Sans'}
+	.true1{background: url(../img/true.jpg) no-repeat center center fixed; background-size: 100%; height: 500px; padding-bottom: 20px}
+	.black{width:160px; height: 430px; background-color: #080808; color: white; margin-right: 20px
+		;writing-mode: vertical-rl; font-size: 96px;font-weight: 700; letter-spacing: 7px}
+	.flex{display: flex;}
+	.b{font-weight:900; font-size: 48px}
+	.c{font-weight: 700; font-size :24px; line-height: 1.8}
+	.flex1{display: flex;margin-bottom: 110px;}
+	.n{font-weight: 300; font-size: 24px;position: absolute;left: 900px; top: 4900px; animation: leftright 2s ;}
+	.d{margin-bottom: 50px }
+	.m{font-size: 36px; text-align: center;font-weight: 700; margin-bottom: 20px}
+	.color{text-align: center; font-size: 24px; font-weight: 700; margin-bottom: 50px; line-height: 1.8}
+ b{color: #DD5131;}
+ .nike{background-color: #FBCCCB}
+ .year1{font-size: 76px ; font-weight: 700 ;margin-left: 60px; margin-bottom: 50px;font-family: 'Noto Sans' ;margin-bottom: 100px; margin-top: 300px;}
+ .co{font-weight: 700; font-family: 'Noto Sans'; font-size :72px;letter-spacing: 105px;margin-bottom: 100px;}
+ .ma{font-size: 36px; text-align: center;font-weight: 700; margin-bottom: 20px;color: white;}
+ .flex2{display: flex; margin-left: 300px}
+  .flex3{display: flex; margin-left: 300px; margin-bottom: 300px}
+  .sup{font-size: 60px ; font-weight: 700 ;font-family: 'Noto Sans';margin-left: 60px; letter-spacing: -1px}
+  .supreme{font-size: 30px ; font-weight: 700 ;font-family: 'Noto Sans';margin-left: 60px;letter-spacing: -1px}
+  .colors{text-align: center; font-size: 24px; font-weight: 700; margin-bottom: 50px; line-height: 1.8;}
+  .colorss{text-align: center;font-size: 48px; font-weight: 700; margin-bottom: 30px; line-height: 1.8;margin-top :1300px;letter-spacing: -1px}
+  .ts{width: auto; height: 1800px;background:url(../img/2020/ts.png) no-repeat center center ; background-size: 100%}
+  .colorsss{text-align: center; font-size: 24px; font-weight: 700;line-height: 1.8; margin-top: 300px;color: white; background-color: #DD5131 ; height: 500px;margin-bottom: 0px;}
+
+ 
+@keyframes leftright{
+	from{left:0px;}
+	to{left:900px;}
+}
